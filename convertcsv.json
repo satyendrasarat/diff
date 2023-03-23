@@ -1,0 +1,766 @@
+[
+ {
+   "SYMBOL": "AARTIIND",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "ABB",
+   "DIFF": 50
+ },
+ {
+   "SYMBOL": "ABBOTINDIA",
+   "DIFF": 250
+ },
+ {
+   "SYMBOL": "ABCAPITAL",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "ABFRL",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "ACC",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "ADANIENT",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "ADANIPORTS",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "ALKEM",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "AMBUJACEM",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "APOLLOHOSP",
+   "DIFF": 50
+ },
+ {
+   "SYMBOL": "APOLLOTYRE",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "ASHOKLEY",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "ASIANPAINT",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "ASTRAL",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "ATUL",
+   "DIFF": 100
+ },
+ {
+   "SYMBOL": "AUBANK",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "AUROPHARMA",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "AXISBANK",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "BAJAJ-AUTO",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "BAJAJFINSV",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "BAJFINANCE",
+   "DIFF": 100
+ },
+ {
+   "SYMBOL": "BALKRISIND",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "BALRAMCHIN",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "BANDHANBNK",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "BANKBARODA",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "BATAINDIA",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "BEL",
+   "DIFF": 1
+ },
+ {
+   "SYMBOL": "BERGEPAINT",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "BHARATFORG",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "BHARTIARTL",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "BHEL",
+   "DIFF": 1
+ },
+ {
+   "SYMBOL": "BIOCON",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "BOSCHLTD",
+   "DIFF": 250
+ },
+ {
+   "SYMBOL": "BPCL",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "BRITANNIA",
+   "DIFF": 50
+ },
+ {
+   "SYMBOL": "BSOFT",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "CANBK",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "CANFINHOME",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "CHAMBLFERT",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "CHOLAFIN",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "CIPLA",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "COALINDIA",
+   "DIFF": 0.25
+ },
+ {
+   "SYMBOL": "COFORGE",
+   "DIFF": 50
+ },
+ {
+   "SYMBOL": "COLPAL",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "CONCOR",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "COROMANDEL",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "CROMPTON",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "CUB",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "CUMMINSIND",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "DABUR",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "DALBHARAT",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "DEEPAKNTR",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "DELTACORP",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "DIVISLAB",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "DIXON",
+   "DIFF": 50
+ },
+ {
+   "SYMBOL": "DLF",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "DRREDDY",
+   "DIFF": 50
+ },
+ {
+   "SYMBOL": "EICHERMOT",
+   "DIFF": 50
+ },
+ {
+   "SYMBOL": "ESCORTS",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "EXIDEIND",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "FEDERALBNK",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "FSL",
+   "DIFF": 0.5
+ },
+ {
+   "SYMBOL": "GAIL",
+   "DIFF": 1
+ },
+ {
+   "SYMBOL": "GLENMARK",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "GMRINFRA",
+   "DIFF": 1
+ },
+ {
+   "SYMBOL": "GNFC",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "GODREJCP",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "GODREJPROP",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "GRANULES",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "GRASIM",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "GUJGASLTD",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "HAL",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "HAVELLS",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "HCLTECH",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "HDFC",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "HDFCAMC",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "HDFCBANK",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "HDFCLIFE",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "HEROMOTOCO",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "HINDALCO",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "HINDCOPPER",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "HINDPETRO",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "HINDUNILVR",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "HONAUT",
+   "DIFF": 500
+ },
+ {
+   "SYMBOL": "IBULHSGFIN",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "ICICIBANK",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "ICICIGI",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "ICICIPRULI",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "IDEA",
+   "DIFF": 1
+ },
+ {
+   "SYMBOL": "IDFC",
+   "DIFF": 1
+ },
+ {
+   "SYMBOL": "IDFCFIRSTB",
+   "DIFF": 1
+ },
+ {
+   "SYMBOL": "IEX",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "IGL",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "INDHOTEL",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "INDIACEM",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "INDIAMART",
+   "DIFF": 50
+ },
+ {
+   "SYMBOL": "INDIGO",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "INDUSINDBK",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "INDUSTOWER",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "INFY",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "INTELLECT",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "IOC",
+   "DIFF": 1
+ },
+ {
+   "SYMBOL": "IPCALAB",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "IRCTC",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "ITC",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "JINDALSTEL",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "JKCEMENT",
+   "DIFF": 50
+ },
+ {
+   "SYMBOL": "JSWSTEEL",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "JUBLFOOD",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "KOTAKBANK",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "L&TFH",
+   "DIFF": 1
+ },
+ {
+   "SYMBOL": "LALPATHLAB",
+   "DIFF": 50
+ },
+ {
+   "SYMBOL": "LAURUSLABS",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "LICHSGFIN",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "LT",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "LTIM",
+   "DIFF": 50
+ },
+ {
+   "SYMBOL": "LTTS",
+   "DIFF": 50
+ },
+ {
+   "SYMBOL": "LUPIN",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "M&M",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "M&MFIN",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "MANAPPURAM",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "MARICO",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "MARUTI",
+   "DIFF": 100
+ },
+ {
+   "SYMBOL": "MCDOWELL-N",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "MCX",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "METROPOLIS",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "MFSL",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "MGL",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "MOTHERSON",
+   "DIFF": 1
+ },
+ {
+   "SYMBOL": "MPHASIS",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "MRF",
+   "DIFF": 500
+ },
+ {
+   "SYMBOL": "MUTHOOTFIN",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "NATIONALUM",
+   "DIFF": 0.5
+ },
+ {
+   "SYMBOL": "NAUKRI",
+   "DIFF": 50
+ },
+ {
+   "SYMBOL": "NAVINFLUOR",
+   "DIFF": 50
+ },
+ {
+   "SYMBOL": "NESTLEIND",
+   "DIFF": 250
+ },
+ {
+   "SYMBOL": "NMDC",
+   "DIFF": 1.25
+ },
+ {
+   "SYMBOL": "NTPC",
+   "DIFF": 0.75
+ },
+ {
+   "SYMBOL": "OBEROIRLTY",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "OFSS",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "ONGC",
+   "DIFF": 1
+ },
+ {
+   "SYMBOL": "PAGEIND",
+   "DIFF": 500
+ },
+ {
+   "SYMBOL": "PEL",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "PERSISTENT",
+   "DIFF": 100
+ },
+ {
+   "SYMBOL": "PETRONET",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "PFC",
+   "DIFF": 0.5
+ },
+ {
+   "SYMBOL": "PIDILITIND",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "PIIND",
+   "DIFF": 50
+ },
+ {
+   "SYMBOL": "PNB",
+   "DIFF": 1
+ },
+ {
+   "SYMBOL": "POLYCAB",
+   "DIFF": 50
+ },
+ {
+   "SYMBOL": "POWERGRID",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "PVR",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "RAIN",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "RAMCOCEM",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "RBLBANK",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "RECLTD",
+   "DIFF": 0.25
+ },
+ {
+   "SYMBOL": "RELIANCE",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "SAIL",
+   "DIFF": 1
+ },
+ {
+   "SYMBOL": "SBICARD",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "SBILIFE",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "SBIN",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "SHREECEM",
+   "DIFF": 250
+ },
+ {
+   "SYMBOL": "SHRIRAMFIN",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "SIEMENS",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "SRF",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "SUNPHARMA",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "SUNTV",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "SYNGENE",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "TATACHEM",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "TATACOMM",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "TATACONSUM",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "TATAMOTORS",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "TATAPOWER",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "TATASTEEL",
+   "DIFF": 1
+ },
+ {
+   "SYMBOL": "TCS",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "TECHM",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "TITAN",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "TORNTPHARM",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "TORNTPOWER",
+   "DIFF": 2
+ },
+ {
+   "SYMBOL": "TRENT",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "TVSMOTOR",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "UBL",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "ULTRACEMCO",
+   "DIFF": 100
+ },
+ {
+   "SYMBOL": "UPL",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "VEDL",
+   "DIFF": 2.5
+ },
+ {
+   "SYMBOL": "VOLTAS",
+   "DIFF": 10
+ },
+ {
+   "SYMBOL": "WHIRLPOOL",
+   "DIFF": 20
+ },
+ {
+   "SYMBOL": "WIPRO",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "ZEEL",
+   "DIFF": 5
+ },
+ {
+   "SYMBOL": "ZYDUSLIFE",
+   "DIFF": 5
+ }
+]
